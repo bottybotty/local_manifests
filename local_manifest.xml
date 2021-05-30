@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Trees -->
+
+
+  <!-- Trees -->
+  <project path="device/asus/Z00L" name="bottybotty/test_Z00L" remote="github" revision="test1" />
+  <project path="device/asus/msm8916-common" name="bottybotty/test_msm8916-common" remote="github" revision="test1" />
+  <project path="kernel/asus/msm8916" name="bottybotty/kernel_msm8916" remote="github" revision="test1" />
+  <project path="vendor/asus" name="bottybotty/test_vendor_asus" remote="github" revision="test1" />
+
+</manifest>
